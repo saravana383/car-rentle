@@ -24,25 +24,6 @@ I’ve added JavaScript to make the site a bit more dynamic and user-friendly.
 
 All the images and resources for the site are tucked away here to keep things organized.
 
-
-# How Can You Check It Out?
-
-**Download or Clone This Repo
-Use this command to clone it:**
-
-bash
-
-**Copy code**
-
-git clone (https://github.com/Raksith-Ramachandran/Car_Rental_Website).git
-
-**Open the Homepage**
-Go to the project folder and open index.html in any browser.
-
-<h3>Explore!</h3>
-
-Check out the homepage, try the registration form, and see how everything works.
-
 # Built With
 **HTML:** To structure the pages.
 
