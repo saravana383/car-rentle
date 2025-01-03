@@ -41,6 +41,4 @@ A database to store rental information.
 
 A responsive design for mobile devices.
 
-# About Me
 
-Hi! I’m Raksith Ramachandran 👋. I’m a budding software developer, and this is one of my projects as I learn and grow. Feel free to share feedback or suggestions!
